@@ -1,2 +1,2 @@
 # odin-landing_page
-Project on the flexbox section
+Project on the flexbox section.
